@@ -1,0 +1,24 @@
+.container{
+    margin-top: 10px;
+    
+}
+.col{
+    border: 1px solid red;
+}
+.col-12{
+    border: 1px solid red;
+}
+.col-lg-3{
+    margin: 20px;
+}
+.contain{
+    margin-top: -27px;
+}
+#four{
+    margin-top: -24px;
+}
+@media screen and (max-width: 400px) {
+    div.contain {
+      display: none;
+    }
+  }
